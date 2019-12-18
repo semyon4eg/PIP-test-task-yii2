@@ -1,4 +1,4 @@
-Andrey Semenov's test task.
+Andrey's test task.
 ---------------------------
 
 INCTRUCTIONS:
@@ -10,7 +10,7 @@ INCTRUCTIONS:
 5. Run requirments.php to check whether additional php packages are needed and install them.
 6. Use 'yii migrate' console command and apply all migrations.
 7. For now the project should run blank main page with just a layout template applied.
-8. Hit the `MOAR posts for postGod` link at the top-right corner of the page, this will add a job for a parser in the yii-queue.
+8. Hit the `More posts` link at the top-right corner of the page, this will add a job for a parser in the yii-queue.
 9. Run 'yii queue/info' in console to check if the job was added.
 10. Add a new line in a crontab containing:
 
