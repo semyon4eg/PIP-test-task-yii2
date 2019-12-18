@@ -5,7 +5,7 @@ INCTRUCTIONS:
 
 1. Download the project.
 2. Configurate your web-server, preferably use Apache as a webserver.
-3. Make an empty MySQL-compatible database named 'poravinternet_db' with 'root' user and blank password or make changes to a db.php config file.
+3. Make an empty MySQL-compatible database named 'pora_db' with 'root' user and blank password or make changes to a db.php config file.
 4. Install a composer if needed and run 'composer update' inside the project.
 5. Run requirments.php to check whether additional php packages are needed and install them.
 6. Use 'yii migrate' console command and apply all migrations.
